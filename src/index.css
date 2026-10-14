@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-sand: #D8B786;
+    --color-terracotta: #9A542E;
+    --color-charcoal: #25251F;
+    --color-ivory: #F8F4EC;
+    --font-heading: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Custom styling for Leaflet inside responsive containers */
+.leaflet-container {
+  font-family: inherit !important;
+  border-radius: 1rem;
+  z-index: 10;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 0.75rem !important;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.2), 0 8px 10px -6px rgba(0, 0, 0, 0.1) !important;
+  padding: 0 !important;
+  overflow: hidden;
+}
+
+.leaflet-popup-content {
+  margin: 0 !important;
+  line-height: 1.5 !important;
+}
+
+/* Subtle scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F8F4EC;
+}
+::-webkit-scrollbar-thumb {
+  background: #D8B786;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9A542E;
+}

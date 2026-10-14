@@ -1,0 +1,1239 @@
+{
+  "settings": {
+    "heroHeading": "Discover Tharparkar — The Land of Beauty, Culture & Heritage",
+    "heroSubtitle": "Explore destinations, discover educational institutions, find essential services, and experience the authentic spirit of Tharparkar.",
+    "heroButtonPrimary": "Explore Tharparkar",
+    "heroButtonSecondary": "Explore the District Map",
+    "heroButtonTertiary": "Discover Educational Institutions",
+    "heroImage": "/hero-tharparkar.jpg",
+    "emergencyNotice": "Tharparkar District Administration Hotline: 0232-920060 | Civil Hospital Mithi Emergency: 0232-920031",
+    "contactEmail": "info@tharparkardistrict.gos.pk",
+    "contactPhone": "+92 232 920060",
+    "contactAddress": "Deputy Commissioner Complex, Naukot Road, Mithi, Tharparkar, Sindh, Pakistan"
+  },
+  "directory": [
+    {
+      "id": "edu-tiest-ned",
+      "name": "Thar Institute of Engineering, Sciences & Technology (TIEST - NED University)",
+      "category": "education",
+      "subCategory": "engineering_tech",
+      "town": "Islamkot",
+      "address": "Islamkot-Mithi Road, Islamkot, District Tharparkar",
+      "latitude": 24.712,
+      "longitude": 70.134,
+      "phone": "+92 232 920150",
+      "email": "info@tiest.edu.pk",
+      "website": "https://tiest.neduet.edu.pk",
+      "description": "A constituent campus of NED University of Engineering and Technology, Karachi. Established to provide world-class engineering, computer science, and technical education to the youth of Tharparkar and Sindh.",
+      "programsOrServices": [
+        "BE Civil Engineering",
+        "BS Computer Science",
+        "Environmental Engineering",
+        "Digital Labs & Research"
+      ],
+      "ownership": "Government",
+      "genderType": "Co-education",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "NED University Official Portal & Higher Education Commission (HEC) Pakistan",
+      "lastUpdated": "2026-09-15",
+      "facilities": [
+        "Advanced Computing Labs",
+        "Engineering Workshops",
+        "Central Library",
+        "Student Transport",
+        "Hostel Facility"
+      ]
+    },
+    {
+      "id": "edu-govt-boys-degree-mithi",
+      "name": "Government Boys Degree College Mithi",
+      "category": "education",
+      "subCategory": "boys_college",
+      "town": "Mithi",
+      "address": "College Road, Near District Complex, Mithi",
+      "latitude": 24.741,
+      "longitude": 69.805,
+      "phone": "+92 232 920088",
+      "email": "gbdc.mithi@sindheducation.gov.pk",
+      "description": "The premier public higher secondary and undergraduate college in Mithi, affiliated with the University of Sindh, offering Intermediate and Bachelor programs in Pre-Engineering, Pre-Medical, Science, and Arts.",
+      "programsOrServices": [
+        "FSc Pre-Engineering",
+        "FSc Pre-Medical",
+        "ICS Computer Science",
+        "BA & BSc Degree Programs"
+      ],
+      "ownership": "Government",
+      "genderType": "Boys",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "College Education Department, Government of Sindh",
+      "lastUpdated": "2026-08-10",
+      "facilities": [
+        "Science Laboratories",
+        "Sports Grounds",
+        "Auditorium",
+        "Botanical Garden",
+        "Library"
+      ]
+    },
+    {
+      "id": "edu-govt-girls-degree-mithi",
+      "name": "Government Girls Degree College Mithi",
+      "category": "education",
+      "subCategory": "girls_college",
+      "town": "Mithi",
+      "address": "Near Old Circuit House, Mithi",
+      "latitude": 24.7475,
+      "longitude": 69.794,
+      "phone": "+92 232 920092",
+      "email": "ggdc.mithi@sindheducation.gov.pk",
+      "description": "Dedicated public degree institution empowering female education across Tharparkar. Offers accredited intermediate and graduate study tracks with dedicated transportation and mentoring.",
+      "programsOrServices": [
+        "Intermediate in Pre-Medical & Pre-Engineering",
+        "General Science",
+        "Bachelor of Arts (BA)",
+        "B.Com & Associate Degrees"
+      ],
+      "ownership": "Government",
+      "genderType": "Girls",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "College Education Department, Government of Sindh",
+      "lastUpdated": "2026-08-10",
+      "facilities": [
+        "Computer Lab",
+        "Girls Common Room",
+        "Library",
+        "Security Perimeter",
+        "Dedicated College Bus"
+      ]
+    },
+    {
+      "id": "edu-thar-nursing-mithi",
+      "name": "Thar Institute of Nursing & Allied Health Sciences Mithi",
+      "category": "education",
+      "subCategory": "medical_nursing",
+      "town": "Mithi",
+      "address": "Civil Hospital Road, Mithi",
+      "latitude": 24.7395,
+      "longitude": 69.798,
+      "phone": "+92 232 920045",
+      "email": "nursing.mithi@healthsindh.gov.pk",
+      "description": "Recognized medical and nursing training institute affiliated with the Sindh Nurses Examination Board and Pakistan Nursing Council, affiliated with DHQ Civil Hospital Mithi for clinical rotations.",
+      "programsOrServices": [
+        "BS Nursing (Generic - 4 Years)",
+        "Post-RN BSc Nursing",
+        "Community Midwifery",
+        "Clinical Laboratory Technology"
+      ],
+      "ownership": "Government",
+      "genderType": "Co-education",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Health Department & Pakistan Nursing Council",
+      "lastUpdated": "2026-07-20",
+      "facilities": [
+        "Simulation Skill Lab",
+        "Anatomy Models",
+        "Hospital Ward Rotations",
+        "Digital Study Hall"
+      ]
+    },
+    {
+      "id": "edu-degree-islamkot",
+      "name": "Government Boys Degree College Islamkot",
+      "category": "education",
+      "subCategory": "govt_college",
+      "town": "Islamkot",
+      "address": "Sant Nenuram Road, Islamkot",
+      "latitude": 24.695,
+      "longitude": 70.174,
+      "phone": "+92 232 921020",
+      "description": "Key higher secondary college serving Islamkot taluka and adjacent mining communities, fostering youth progression into regional engineering and medical universities.",
+      "programsOrServices": [
+        "HSSC Pre-Medical",
+        "HSSC Pre-Engineering",
+        "Humanities & Commerce"
+      ],
+      "ownership": "Government",
+      "genderType": "Boys",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh College Education Directorate",
+      "lastUpdated": "2026-05-18"
+    },
+    {
+      "id": "edu-degree-nagarparkar",
+      "name": "Government Degree College Nagarparkar",
+      "category": "education",
+      "subCategory": "govt_college",
+      "town": "Nagarparkar",
+      "address": "Karoonjhar Foothills Road, Nagarparkar",
+      "latitude": 24.359,
+      "longitude": 70.751,
+      "phone": "+92 232 922011",
+      "description": "Crucial educational pillar providing higher education to the border youth of Nagarparkar, offering intermediate and associate degree programs.",
+      "programsOrServices": [
+        "Pre-Medical",
+        "Pre-Engineering",
+        "Arts & Social Sciences"
+      ],
+      "ownership": "Government",
+      "genderType": "Co-education",
+      "photos": [
+        "/karoonjhar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh College Education Directorate",
+      "lastUpdated": "2026-06-12"
+    },
+    {
+      "id": "edu-degree-diplo",
+      "name": "Government Degree College Diplo",
+      "category": "education",
+      "subCategory": "govt_college",
+      "town": "Diplo",
+      "address": "Main Diplo Highway, Diplo",
+      "latitude": 24.471,
+      "longitude": 69.587,
+      "phone": "+92 232 923005",
+      "description": "Renowned educational landmark in Diplo, historically recognized for producing scholars, civil servants, and educators from Tharparkar.",
+      "programsOrServices": [
+        "FSc Pre-Medical",
+        "FSc Pre-Engineering",
+        "Bachelor of Arts"
+      ],
+      "ownership": "Government",
+      "genderType": "Co-education",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Education Department",
+      "lastUpdated": "2026-04-20"
+    },
+    {
+      "id": "edu-degree-chachro",
+      "name": "Government Degree College Chachro",
+      "category": "education",
+      "subCategory": "govt_college",
+      "town": "Chachro",
+      "address": "Umerkot-Chachro Highway, Chachro",
+      "latitude": 25.119,
+      "longitude": 70.254,
+      "phone": "+92 232 924012",
+      "description": "Serving students from northern Tharparkar, providing rigorous coaching in science and arts with extensive regional student enrollment.",
+      "programsOrServices": [
+        "HSSC Science Group",
+        "General Arts",
+        "Commerce"
+      ],
+      "ownership": "Government",
+      "genderType": "Co-education",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Education Department",
+      "lastUpdated": "2026-05-10"
+    },
+    {
+      "id": "edu-stevta-mithi",
+      "name": "Government Technical & Vocational Training Center (STEVTA) Mithi",
+      "category": "education",
+      "subCategory": "vocational_training",
+      "town": "Mithi",
+      "address": "Industrial Area, Bypass Road, Mithi",
+      "latitude": 24.735,
+      "longitude": 69.812,
+      "phone": "+92 232 920110",
+      "description": "Sindh Technical Education & Vocational Training Authority center equipping local youth with technical skills in solar PV installation, electrical wiring, heavy machinery mechanics, and welding.",
+      "programsOrServices": [
+        "Solar Energy Technician",
+        "Electrician Certification",
+        "Automotive Mechanics",
+        "Plumbing & Pipefitting",
+        "Computer Applications"
+      ],
+      "ownership": "Government",
+      "genderType": "Co-education",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "STEVTA Official Directory",
+      "lastUpdated": "2026-07-01"
+    },
+    {
+      "id": "edu-tcf-school-mithi",
+      "name": "The Citizens Foundation (TCF) School Campus Mithi",
+      "category": "education",
+      "subCategory": "private_school",
+      "town": "Mithi",
+      "address": "Khipro Road, Mithi",
+      "latitude": 24.752,
+      "longitude": 69.791,
+      "phone": "+92 232 920220",
+      "email": "info@tcf.org.pk",
+      "website": "https://www.tcf.org.pk",
+      "description": "Purpose-built non-profit English-medium school providing high quality modern primary and secondary education with an all-female faculty and subsidized tuition.",
+      "programsOrServices": [
+        "Primary Education (Grades 1-5)",
+        "Secondary Matriculation (Grades 6-10)",
+        "Science & English Labs"
+      ],
+      "ownership": "Trust/NGO",
+      "genderType": "Co-education",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "The Citizens Foundation Pakistan Network",
+      "lastUpdated": "2026-06-25"
+    },
+    {
+      "id": "edu-secmc-model-school",
+      "name": "Thar Foundation Model School (SECMC Campus)",
+      "category": "education",
+      "subCategory": "private_school",
+      "town": "Islamkot",
+      "address": "Block II Thar Coal Road, Islamkot",
+      "latitude": 24.708,
+      "longitude": 70.21,
+      "phone": "+92 232 921110",
+      "description": "Modern educational facility built under corporate social responsibility by Thar Foundation and SECMC, providing smart classrooms and STEM curricula.",
+      "programsOrServices": [
+        "Early Childhood Education",
+        "Primary & Middle School",
+        "Robotics & STEM Lab"
+      ],
+      "ownership": "Trust/NGO",
+      "genderType": "Co-education",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Thar Foundation Annual Report",
+      "lastUpdated": "2026-08-01"
+    },
+    {
+      "id": "edu-govt-high-boys-mithi",
+      "name": "Government Boys High School Mithi (Est. 1904)",
+      "category": "education",
+      "subCategory": "govt_boys_school",
+      "town": "Mithi",
+      "address": "Main Bazaar Road, Mithi",
+      "latitude": 24.7425,
+      "longitude": 69.7995,
+      "phone": "+92 232 920033",
+      "description": "One of the oldest educational institutions in Tharparkar, founded in 1904. Has nurtured generations of notable Sindhi intellectuals, writers, and leaders.",
+      "programsOrServices": [
+        "Matriculation (Science & General)",
+        "Sindhi Medium & English Medium Wings"
+      ],
+      "ownership": "Government",
+      "genderType": "Boys",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "School Education & Literacy Department, Sindh",
+      "lastUpdated": "2026-04-10"
+    },
+    {
+      "id": "edu-govt-high-girls-mithi",
+      "name": "Government Girls High School Mithi",
+      "category": "education",
+      "subCategory": "govt_girls_school",
+      "town": "Mithi",
+      "address": "Civil Hospital Road, Mithi",
+      "latitude": 24.744,
+      "longitude": 69.796,
+      "phone": "+92 232 920038",
+      "description": "Leading public girls school in the district center, with dedicated science laboratories and arts programs.",
+      "programsOrServices": [
+        "Matriculation Science",
+        "Matriculation Arts",
+        "Computer Literacy"
+      ],
+      "ownership": "Government",
+      "genderType": "Girls",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "School Education & Literacy Department, Sindh",
+      "lastUpdated": "2026-04-10"
+    },
+    {
+      "id": "health-dhq-civil-mithi",
+      "name": "Civil Hospital Mithi (District Headquarters Hospital - DHQ)",
+      "category": "healthcare",
+      "subCategory": "govt_hospital",
+      "town": "Mithi",
+      "address": "Hospital Road, Mithi, Tharparkar",
+      "latitude": 24.739,
+      "longitude": 69.797,
+      "phone": "+92 232 920031",
+      "email": "ms.dhqmithi@healthsindh.gov.pk",
+      "description": "The primary tertiary healthcare institution in District Tharparkar, equipped with a 24/7 emergency department, specialized Pediatric Intensive Care Unit (PICU), Nutrition Stabilization Center (NSC), gynecology ward, blood bank, and surgical theaters.",
+      "programsOrServices": [
+        "24/7 Emergency & Trauma",
+        "Pediatric ICU & Nutrition Center",
+        "Maternity & Neonatal Care (C-section)",
+        "Digital Radiology & Ultrasound",
+        "Dialysis Unit",
+        "Free Pharmacy"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Health Department, Directorate General Health Services",
+      "lastUpdated": "2026-09-01",
+      "facilities": [
+        "150+ Inpatient Beds",
+        "Ambulance Fleet",
+        "Central Oxygen Supply",
+        "Diagnostic Blood Bank",
+        "Emergency Triage"
+      ],
+      "hours": "24 Hours Emergency, OPD: 08:00 AM - 02:00 PM"
+    },
+    {
+      "id": "health-thar-foundation-islamkot",
+      "name": "Thar Foundation Hospital (Indus Hospital Network Partner)",
+      "category": "healthcare",
+      "subCategory": "private_hospital",
+      "town": "Islamkot",
+      "address": "Islamkot Bypass, Islamkot",
+      "latitude": 24.693,
+      "longitude": 70.182,
+      "phone": "+92 232 921200",
+      "website": "https://indushospital.org.pk",
+      "description": "State-of-the-art charitable hospital operated in partnership with The Indus Hospital & Health Network. Delivers completely free, paperless healthcare to desert residents including surgical and pediatric care.",
+      "programsOrServices": [
+        "Outpatient Clinics",
+        "Mother & Child Care",
+        "Emergency Resuscitation",
+        "EHR Digital Health System",
+        "Fully Equipped Pathology Lab"
+      ],
+      "ownership": "Trust/NGO",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Indus Hospital & Health Network Verified Registry",
+      "lastUpdated": "2026-08-15",
+      "facilities": [
+        "Modern OT",
+        "Ultrasound & X-Ray",
+        "Fully Subsidized Pharmacy",
+        "Specialist Telemedicine"
+      ],
+      "hours": "24 Hours Emergency & Delivery"
+    },
+    {
+      "id": "health-thq-nagarparkar",
+      "name": "Taluka Headquarters (THQ) Hospital Nagarparkar",
+      "category": "healthcare",
+      "subCategory": "govt_hospital",
+      "town": "Nagarparkar",
+      "address": "Main Bazaar Road, Nagarparkar",
+      "latitude": 24.354,
+      "longitude": 70.758,
+      "phone": "+92 232 922030",
+      "description": "Public taluka hospital serving Nagarparkar and surrounding rural settlements across the Karoonjhar region with emergency stabilization, snake-bite treatment center, and maternity services.",
+      "programsOrServices": [
+        "Emergency Care",
+        "Anti-Snake Venom (ASV) Center",
+        "Labor Room",
+        "General OPD",
+        "Vaccination (EPI)"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/karoonjhar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Directorate Health Services Sindh",
+      "lastUpdated": "2026-07-15",
+      "hours": "24/7 Emergency Service"
+    },
+    {
+      "id": "health-thq-islamkot",
+      "name": "Taluka Headquarters (THQ) Hospital Islamkot",
+      "category": "healthcare",
+      "subCategory": "govt_hospital",
+      "town": "Islamkot",
+      "address": "Near Old Bus Stand, Islamkot",
+      "latitude": 24.697,
+      "longitude": 70.176,
+      "phone": "+92 232 921015",
+      "description": "Government taluka hospital providing primary and secondary medical care, mother & child health services, and 24-hour casualty unit.",
+      "programsOrServices": [
+        "General Medicine",
+        "Dental Unit",
+        "Immunization",
+        "Emergency Room"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "District Health Office Tharparkar",
+      "lastUpdated": "2026-06-20",
+      "hours": "24/7 Emergency"
+    },
+    {
+      "id": "health-thq-diplo",
+      "name": "Taluka Headquarters (THQ) Hospital Diplo",
+      "category": "healthcare",
+      "subCategory": "govt_hospital",
+      "town": "Diplo",
+      "address": "Hospital Road, Diplo",
+      "latitude": 24.468,
+      "longitude": 69.582,
+      "phone": "+92 232 923010",
+      "description": "Government healthcare center for Diplo taluka providing pediatric care, gynecological consultations, basic surgery, and diagnostic lab tests.",
+      "programsOrServices": [
+        "Emergency Department",
+        "Pediatric Unit",
+        "Basic Laboratory",
+        "Maternal Health"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "District Health Office Tharparkar",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "health-thq-chachro",
+      "name": "Taluka Headquarters (THQ) Hospital Chachro",
+      "category": "healthcare",
+      "subCategory": "govt_hospital",
+      "town": "Chachro",
+      "address": "Main Hospital Road, Chachro",
+      "latitude": 25.114,
+      "longitude": 70.252,
+      "phone": "+92 232 924020",
+      "description": "Major public healthcare anchor for the northern desert taluka, providing emergency response, anti-venom treatments, and maternal delivery wards.",
+      "programsOrServices": [
+        "Emergency & Trauma",
+        "Snake Bite Center",
+        "Malnutrition Ward",
+        "Ultrasound Lab"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "District Health Office Tharparkar",
+      "lastUpdated": "2026-06-05"
+    },
+    {
+      "id": "health-rhc-chelhar",
+      "name": "Rural Health Center (RHC) Chelhar",
+      "category": "healthcare",
+      "subCategory": "rhc",
+      "town": "Chelhar",
+      "address": "Central Chowk, Chelhar",
+      "latitude": 24.834,
+      "longitude": 70.015,
+      "phone": "+92 232 920550",
+      "description": "Primary rural healthcare facility offering 24-hour emergency triage, labor and delivery, and outpatient treatments.",
+      "programsOrServices": [
+        "Emergency Triage",
+        "Normal Delivery",
+        "Child Immunization",
+        "Common Illness Treatment"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Health Department",
+      "lastUpdated": "2026-05-01"
+    },
+    {
+      "id": "health-bhu-bhalwa",
+      "name": "Basic Health Unit (BHU) Bhalwa",
+      "category": "healthcare",
+      "subCategory": "bhu",
+      "town": "Bhalwa",
+      "address": "Bhalwa Village, Near Marvi Well",
+      "latitude": 24.521,
+      "longitude": 70.612,
+      "phone": "+92 232 922110",
+      "description": "First-level public health facility serving local desert villages with maternal consultations, nutritional support, and vaccinations.",
+      "programsOrServices": [
+        "Primary Consultations",
+        "Polio & EPI Vaccinations",
+        "Nutrition Supplements"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/karoonjhar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "District Health Office Tharparkar",
+      "lastUpdated": "2026-04-18"
+    },
+    {
+      "id": "acc-stdc-rooplo-nagarparkar",
+      "name": "STDC Rooplo Kolhi Resort Nagarparkar",
+      "category": "accommodation",
+      "subCategory": "resort",
+      "town": "Nagarparkar",
+      "address": "At the foot of Karoonjhar Mountains, Nagarparkar",
+      "latitude": 24.352,
+      "longitude": 70.759,
+      "phone": "+92 232 922080",
+      "website": "https://stdc.gos.pk",
+      "description": "Official tourism resort operated by the Sindh Tourism Development Corporation (STDC). Set against the dramatic pink granite backdrop of the Karoonjhar Mountains, offering air-conditioned rooms, suites, traditional dining, and guided mountain trek bookings.",
+      "programsOrServices": [
+        "Deluxe Mountain-view Rooms",
+        "Traditional Thari Dining Restaurant",
+        "Tourist Information Desk",
+        "Secure Parking",
+        "Cultural Evenings"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/karoonjhar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Tourism Development Corporation (STDC) Official Portal",
+      "lastUpdated": "2026-09-01",
+      "facilities": [
+        "Air Conditioning",
+        "En-suite Bathrooms",
+        "Restaurant",
+        "Generators / Solar Power",
+        "24/7 Security"
+      ],
+      "hours": "24 Hours Front Desk"
+    },
+    {
+      "id": "acc-stdc-sambara-mithi",
+      "name": "STDC Sambara Motel & Tourist Center Mithi",
+      "category": "accommodation",
+      "subCategory": "hotel",
+      "town": "Mithi",
+      "address": "Bypass Road, Near Circuit House, Mithi",
+      "latitude": 24.746,
+      "longitude": 69.808,
+      "phone": "+92 232 920042",
+      "website": "https://stdc.gos.pk",
+      "description": "Comfortable public motel managed by STDC providing well-furnished family accommodation, clean dining, and tourist information for visitors exploring Mithi and the desert.",
+      "programsOrServices": [
+        "AC & Non-AC Rooms",
+        "Sindhi & Continental Cuisine",
+        "Conference Hall",
+        "Lawn & Terrace"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Tourism Development Corporation (STDC)",
+      "lastUpdated": "2026-08-20",
+      "facilities": [
+        "Dining Hall",
+        "Complimentary WiFi",
+        "Power Backup",
+        "Terrace View"
+      ]
+    },
+    {
+      "id": "acc-circuit-house-mithi",
+      "name": "Government Circuit House Mithi",
+      "category": "accommodation",
+      "subCategory": "rest_house",
+      "town": "Mithi",
+      "address": "Officers Colony, Naukot Road, Mithi",
+      "latitude": 24.748,
+      "longitude": 69.792,
+      "phone": "+92 232 920022",
+      "description": "Official district guest house maintained by the Services, General Administration & Coordination Department (SGA&CD) for visiting government dignitaries, researchers, and official delegations.",
+      "programsOrServices": [
+        "VIP Executive Suites",
+        "Dining Hall",
+        "Official Meeting Room"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Deputy Commissioner Office Tharparkar",
+      "lastUpdated": "2026-07-10",
+      "facilities": [
+        "Lush Green Lawns",
+        "Secure Perimeter",
+        "Dining Service"
+      ]
+    },
+    {
+      "id": "acc-desert-safari-huts-mithi",
+      "name": "Gadhi Bhit Desert Safari Huts & Camp",
+      "category": "accommodation",
+      "subCategory": "guest_house",
+      "town": "Mithi",
+      "address": "Gadhi Bhit Sand Dune Ridge, Mithi",
+      "latitude": 24.7405,
+      "longitude": 69.804,
+      "phone": "+92 333 2548910",
+      "description": "Authentic traditional straw-thatched \"Chaunra\" desert huts and eco-friendly guest accommodations located next to Gadhi Bhit dune, providing sunset camel rides and stargazing.",
+      "programsOrServices": [
+        "Traditional Chaunra Thatched Huts",
+        "Sunset Camel Safari",
+        "Bonfire & Folk Music",
+        "Local Thari Meals"
+      ],
+      "ownership": "Private",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Thar Desert Tourism Association Directory",
+      "lastUpdated": "2026-08-01",
+      "facilities": [
+        "Desert View Patio",
+        "Campfire Area",
+        "Traditional Floor Seating",
+        "Organic Meals"
+      ]
+    },
+    {
+      "id": "acc-marvi-rest-house-bhalwa",
+      "name": "Marvi Cultural Complex Rest House",
+      "category": "accommodation",
+      "subCategory": "rest_house",
+      "town": "Bhalwa",
+      "address": "Marvi Heritage Ground, Bhalwa",
+      "latitude": 24.5205,
+      "longitude": 70.6095,
+      "phone": "+92 232 922055",
+      "description": "Culture & Antiquities Department guest facility situated adjacent to the historic Marvi Well, offering serene lodging for heritage researchers and cultural tourists.",
+      "programsOrServices": [
+        "Heritage Guest Rooms",
+        "Tea Stall & Cafeteria",
+        "Cultural Tour Arrangements"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/karoonjhar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Culture, Tourism, Antiquities & Archives Department Sindh",
+      "lastUpdated": "2026-06-18"
+    },
+    {
+      "id": "gov-dc-office-mithi",
+      "name": "Deputy Commissioner (DC) Office Tharparkar",
+      "category": "government",
+      "subCategory": "district_admin",
+      "town": "Mithi",
+      "address": "District Administrative Complex, Naukot Road, Mithi",
+      "latitude": 24.745,
+      "longitude": 69.795,
+      "phone": "+92 232 920060",
+      "email": "dc.tharparkar@sindh.gov.pk",
+      "website": "https://sindh.gov.pk",
+      "description": "The supreme administrative authority of District Tharparkar, overseeing revenue administration, law & order coordination, relief operations, water schemes, and development programs.",
+      "programsOrServices": [
+        "District Administration",
+        "Disaster & Relief Management (PDMA/DDMA)",
+        "Citizen Grievance Redressal",
+        "Domicile & PRC Issuance"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Official Government of Sindh Portal",
+      "lastUpdated": "2026-09-01",
+      "hours": "Monday to Friday: 09:00 AM - 05:00 PM"
+    },
+    {
+      "id": "gov-ssp-office-mithi",
+      "name": "Senior Superintendent of Police (SSP) Office Tharparkar",
+      "category": "government",
+      "subCategory": "police_security",
+      "town": "Mithi",
+      "address": "Police Lines, Mithi, District Tharparkar",
+      "latitude": 24.7465,
+      "longitude": 69.798,
+      "phone": "+92 232 920050",
+      "email": "ssp.tharparkar@sindhpolice.gov.pk",
+      "description": "Headquarters of Sindh Police for District Tharparkar. Coordinates police stations across all talukas, traffic control, security protocols, and 24/7 emergency dispatch helpline.",
+      "programsOrServices": [
+        "Police Emergency 15",
+        "Crime Reporting & FIRs",
+        "Tourist Safety Unit",
+        "Police Clearance Certificates"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Police Official Registry",
+      "lastUpdated": "2026-08-10",
+      "hours": "24/7 Police Dispatch & Emergency Desk"
+    },
+    {
+      "id": "gov-nadra-mithi",
+      "name": "NADRA Registration Center (NRC) Mithi",
+      "category": "government",
+      "subCategory": "nadra",
+      "town": "Mithi",
+      "address": "Near Old Bus Stand, Mithi",
+      "latitude": 24.743,
+      "longitude": 69.802,
+      "phone": "+92 51 111 786 100",
+      "website": "https://www.nadra.gov.pk",
+      "description": "National Database and Registration Authority facility for the issuance of Computerized National Identity Cards (CNIC), Child Registration Certificates (B-Form), Family Registration, and Biometric verifications.",
+      "programsOrServices": [
+        "Smart CNIC Processing",
+        "B-Form Issuance",
+        "Biometric Verification",
+        "Succession Certificates"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "NADRA Official Center Locator",
+      "lastUpdated": "2026-08-01",
+      "hours": "Monday to Friday: 08:30 AM - 04:30 PM"
+    },
+    {
+      "id": "gov-municipal-mithi",
+      "name": "Municipal Committee Mithi",
+      "category": "government",
+      "subCategory": "municipal",
+      "town": "Mithi",
+      "address": "Shahi Bazaar Chowk, Mithi",
+      "latitude": 24.7415,
+      "longitude": 69.801,
+      "phone": "+92 232 920025",
+      "description": "Urban municipal authority in charge of public cleanliness, street lighting, municipal water supplies, and business trade licenses in Mithi city.",
+      "programsOrServices": [
+        "Sanitation & Waste Management",
+        "Water Supply Maintenance",
+        "Trade Licenses",
+        "Birth & Death Registration"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Local Government Department Sindh",
+      "lastUpdated": "2026-07-15"
+    },
+    {
+      "id": "gov-deo-mithi",
+      "name": "District Education Office (DEO) Tharparkar",
+      "category": "government",
+      "subCategory": "education_dept",
+      "town": "Mithi",
+      "address": "Education Complex, Naukot Road, Mithi",
+      "latitude": 24.7442,
+      "longitude": 69.7935,
+      "phone": "+92 232 920070",
+      "description": "Supervisory authority directing primary, elementary, and secondary education, teacher appointments, school monitoring, and textbook supplies across 3,000+ district schools.",
+      "programsOrServices": [
+        "School Oversight & Monitoring",
+        "Teacher Curriculum Training",
+        "Student Enrolment Drives"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "School Education Department Sindh",
+      "lastUpdated": "2026-07-20"
+    },
+    {
+      "id": "biz-hbl-mithi",
+      "name": "Habib Bank Limited (HBL) Mithi Branch & 24/7 ATM",
+      "category": "business",
+      "subCategory": "bank",
+      "town": "Mithi",
+      "address": "Shahi Bazaar Main Road, Mithi",
+      "latitude": 24.742,
+      "longitude": 69.8005,
+      "phone": "+92 232 920015",
+      "website": "https://www.hbl.com",
+      "description": "Leading commercial bank branch providing retail banking, commercial loans, livestock financing, international remittances, and 24/7 biometric cash withdrawal ATM.",
+      "programsOrServices": [
+        "24/7 ATM Service",
+        "Agricultural & SME Loans",
+        "Remittance Services (Western Union)",
+        "Foreign Currency Exchange"
+      ],
+      "ownership": "Private",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "State Bank of Pakistan Branch Registry",
+      "lastUpdated": "2026-08-01",
+      "hours": "Monday to Friday: 09:00 AM - 05:00 PM (ATM 24 Hours)"
+    },
+    {
+      "id": "biz-nbp-islamkot",
+      "name": "National Bank of Pakistan (NBP) Islamkot",
+      "category": "business",
+      "subCategory": "bank",
+      "town": "Islamkot",
+      "address": "Main Bazaar, Islamkot",
+      "latitude": 24.698,
+      "longitude": 70.178,
+      "phone": "+92 232 921010",
+      "website": "https://www.nbp.com.pk",
+      "description": "Commercial bank branch supporting treasury operations, civil servant pensions, public payments, and general customer accounts with round-the-clock ATM.",
+      "programsOrServices": [
+        "Treasury & Pension Accounts",
+        "Government Fee Collections",
+        "24/7 ATM"
+      ],
+      "ownership": "Semi-Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "National Bank of Pakistan Official Directory",
+      "lastUpdated": "2026-08-01"
+    },
+    {
+      "id": "biz-thar-ralli-coop",
+      "name": "Tharparkar Women Artisans Ralli & Handicrafts Cooperative",
+      "category": "business",
+      "subCategory": "handicraft_artisan",
+      "town": "Mithi",
+      "address": "Shahi Bazaar & Handicraft Center, Mithi",
+      "latitude": 24.7428,
+      "longitude": 69.8012,
+      "phone": "+92 334 2987112",
+      "description": "Grassroots artisan collective representing over 400 skilled rural women embroiderers and weavers from villages across Mithi, Diplo, and Islamkot. Sells authentic hand-stitched Ralli quilts, mirror-work kurtas, cushions, and camel-leather goods directly at fair-trade prices.",
+      "programsOrServices": [
+        "Authentic Handmade Ralli Quilts",
+        "Mirror-work Textiles",
+        "Sindhi Ajrak Stoles",
+        "Custom Hand-embroidered Decor",
+        "Worldwide Shipping"
+      ],
+      "ownership": "Trust/NGO",
+      "photos": [
+        "/thar-crafts.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Small Industries Corporation & Artisan Registry",
+      "lastUpdated": "2026-09-10",
+      "facilities": [
+        "Artisan Display Gallery",
+        "Direct Artisan Fair-Trade Certification",
+        "Card Payment Accepted"
+      ]
+    },
+    {
+      "id": "biz-thar-safari-tours",
+      "name": "Thar Heritage Desert Tours & Expeditions",
+      "category": "business",
+      "subCategory": "tour_operator",
+      "town": "Mithi",
+      "address": "Gadhi Bhit Approach Road, Mithi",
+      "latitude": 24.7412,
+      "longitude": 69.8035,
+      "phone": "+92 331 3844220",
+      "email": "info@tharsafari.pk",
+      "description": "Certified local travel and safari company offering licensed 4x4 desert dune safaris, camel caravans, cultural village excursions, Karoonjhar hiking tours, and eco-camping under Thar’s star-filled skies.",
+      "programsOrServices": [
+        "4x4 Desert Dune Safari",
+        "Sunset Camel Treks",
+        "Karoonjhar Granite Mountain Guided Hikes",
+        "Jain Heritage Trail",
+        "Traditional Folk Music Nights"
+      ],
+      "ownership": "Private",
+      "photos": [
+        "/hero-tharparkar.jpg",
+        "/karoonjhar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Tourism Operator Registration",
+      "lastUpdated": "2026-08-15",
+      "facilities": [
+        "Licensed 4WD Vehicles",
+        "Experienced Local Guides",
+        "Camping Gear Provided"
+      ]
+    },
+    {
+      "id": "dest-gadhi-bhit-mithi",
+      "name": "Gadhi Bhit Sand Dune & Viewpoint",
+      "category": "destination",
+      "subCategory": "viewpoint",
+      "town": "Mithi",
+      "address": "Gadhi Bhit Summit, Mithi, Tharparkar",
+      "latitude": 24.74,
+      "longitude": 69.8038,
+      "description": "The highest and most famous sand dune viewpoint in Mithi. Crowned with an iconic pink-red brick monument and the vibrant \"I Love Mithi\" installation. It offers a 360-degree panoramic vista of Mithi city and the golden rolling desert dunes, where sunset skies transform into brilliant oranges, purples, and golds as peacocks gather.",
+      "programsOrServices": [
+        "Panoramic Sunset Viewpoint",
+        "I Love Mithi Landmark Photography",
+        "Camel Riding on Sand Dunes",
+        "Folk Musicians & Tea Stalls"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Tourism Development Corporation (STDC) & District Heritage Registry",
+      "lastUpdated": "2026-09-20",
+      "facilities": [
+        "Walking Stairs & Railings",
+        "Observation Gazebos",
+        "Evening Illuminations",
+        "Tea Stalls",
+        "Handicraft Stalls"
+      ]
+    },
+    {
+      "id": "dest-karoonjhar-mountains",
+      "name": "Karoonjhar Mountains & Pink Granite Hills",
+      "category": "destination",
+      "subCategory": "natural_landscape",
+      "town": "Nagarparkar",
+      "address": "Karoonjhar Range, Nagarparkar, Tharparkar",
+      "latitude": 24.355,
+      "longitude": 70.755,
+      "description": "A breathtaking 16-mile-long ancient granite mountain range rising dramatically out of the flat desert sands. Famous for its pink and grey granite formations, natural medicinal flora, seasonal freshwater streams (Sardharo and Anchlesar), and rich historical sanctuaries. Local Thari lore proclaims: \"Karoonjhar produces a hundred kilograms of gold each day\" in celebration of its natural wealth.",
+      "programsOrServices": [
+        "Mountain Trekking & Bouldering",
+        "Birdwatching & Flora Exploration",
+        "Historical Jain Pilgrimage Route",
+        "Rainy Season Waterfalls"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/karoonjhar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Culture, Tourism & Antiquities Department Sindh & Geological Survey of Pakistan",
+      "lastUpdated": "2026-09-18",
+      "facilities": [
+        "Trek Trailheads",
+        "STDC Resort Accommodation Nearby",
+        "Local Heritage Guides"
+      ]
+    },
+    {
+      "id": "dest-naukot-fort",
+      "name": "Historic Naukot Fort (Gateway to Thar Desert)",
+      "category": "destination",
+      "subCategory": "heritage_site",
+      "town": "Naukot",
+      "address": "National Highway N-120, Naukot",
+      "latitude": 24.858,
+      "longitude": 69.402,
+      "description": "An imposing historical fort erected in 1814 by Mir Karam Ali Khan Talpur to safeguard the trade route into the desert. Constructed with millions of fired clay bricks, massive rounded ramparts, arched gateways, dungeon chambers, and battlements commanding panoramic views of the desert horizon.",
+      "programsOrServices": [
+        "Archaeological Heritage Tours",
+        "Talpur Architectural Exhibits",
+        "Fortress Rampart Walks"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/naukot-fort.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Antiquities Department Protected Heritage Monument No. 41",
+      "lastUpdated": "2026-08-25",
+      "facilities": [
+        "Entry Ticket Counter",
+        "Information Plaque",
+        "Vehicle Parking",
+        "Rest Areas"
+      ]
+    },
+    {
+      "id": "dest-gori-temple",
+      "name": "Gori Temple (Historic 14th-Century Jain Shrine)",
+      "category": "destination",
+      "subCategory": "religious_site",
+      "town": "Nagarparkar",
+      "address": "Off Islamkot-Nagarparkar Road (near Gori Village)",
+      "latitude": 24.526,
+      "longitude": 70.478,
+      "description": "An architectural marvel of medieval Jain design constructed in 1375 AD with Gujarati-style marble and sandstone. Features 52 intricate carved sub-shrines (devalikas) and exquisite ceiling frescoes depicting the life of Lord Parshvanatha, marking it as one of South Asia’s most unique medieval heritage monuments.",
+      "programsOrServices": [
+        "Architectural Heritage Exploration",
+        "Medieval Fresco Viewing",
+        "Photography & History Documentation"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/karoonjhar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Directorate of Antiquities Sindh & UNESCO Tentative List Documentation",
+      "lastUpdated": "2026-08-15"
+    },
+    {
+      "id": "dest-bhodesar-mosque",
+      "name": "Bhodesar Mosque & Water Reservoir",
+      "category": "destination",
+      "subCategory": "heritage_site",
+      "town": "Nagarparkar",
+      "address": "Bhodesar, 4 km northwest of Nagarparkar",
+      "latitude": 24.372,
+      "longitude": 70.738,
+      "description": "Built in 1505 AD by Sultan Mahmud Begada of Gujarat, this historic white marble and sandstone mosque rests on a square plinth at the edge of the scenic Bhodesar water reservoir. Its elegant arches and corbelled dome reflect the synthesis of Gujarati and Islamic architectural styles.",
+      "programsOrServices": [
+        "Historical Monument Visit",
+        "Lake & Mountain Landscape View",
+        "Archaeological Photography"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/karoonjhar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Antiquities Department, Government of Sindh",
+      "lastUpdated": "2026-07-28"
+    },
+    {
+      "id": "dest-marvi-well-bhalwa",
+      "name": "Marvi’s Well (Umar Marvi Cultural Complex)",
+      "category": "destination",
+      "subCategory": "cultural_complex",
+      "town": "Bhalwa",
+      "address": "Bhalwa Village, District Tharparkar",
+      "latitude": 24.52,
+      "longitude": 70.61,
+      "description": "The legendary well celebrated in the romantic folk epic of Umar Marvi and immortalized in Shah Abdul Latif Bhittai’s \"Sur Marui\". Marvi chose desert loyalty and patriotism over royal luxury. The site houses a landscaped cultural park, folk museum, amphitheater, and the historical stone well.",
+      "programsOrServices": [
+        "Shah Abdul Latif Bhittai Cultural Exhibits",
+        "Historic Well Visit",
+        "Folk Musical Recitals",
+        "Annual Cultural Festival"
+      ],
+      "ownership": "Government",
+      "photos": [
+        "/thar-crafts.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sindh Department of Culture & Antiquities",
+      "lastUpdated": "2026-08-30",
+      "facilities": [
+        "Cultural Museum",
+        "Landscaped Grounds",
+        "Amphitheater",
+        "Rest Area"
+      ]
+    },
+    {
+      "id": "dest-sant-nenuram-ashram",
+      "name": "Sant Nenuram Ashram & Open Community Kitchen",
+      "category": "destination",
+      "subCategory": "religious_site",
+      "town": "Islamkot",
+      "address": "Ashram Road, Islamkot",
+      "latitude": 24.6985,
+      "longitude": 70.177,
+      "description": "Renowned spiritual retreat founded by 20th-century saint Sant Nenuram. It stands as an enduring beacon of interfaith harmony, serving complimentary hot meals (Langar) every day to thousands of travelers, pilgrims, and locals regardless of religion, caste, or background.",
+      "programsOrServices": [
+        "Daily Free Langar (Community Kitchen)",
+        "Interfaith Spiritual Gatherings",
+        "Pilgrim Accommodation",
+        "Annual Three-Day Fair"
+      ],
+      "ownership": "Trust/NGO",
+      "photos": [
+        "/hero-tharparkar.jpg"
+      ],
+      "verificationStatus": "verified",
+      "sourceReference": "Sant Nenuram Trust & District Information Office",
+      "lastUpdated": "2026-08-20",
+      "facilities": [
+        "Massive Dining Hall",
+        "Guest Quarters",
+        "Courtyard Gardens",
+        "Drinking Water Plants"
+      ]
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-1791958023070",
+      "name": "Test Visitor",
+      "email": "test@example.com",
+      "phone": "",
+      "subject": "General Inquiry",
+      "message": "Testing inquiry pipeline",
+      "category": "General",
+      "status": "new",
+      "createdAt": "2026-10-14T06:07:03.070Z"
+    },
+    {
+      "id": "inq-sample-1",
+      "name": "Prof. Ramesh Kumar",
+      "email": "ramesh.kumar@edu.sindh.gov.pk",
+      "phone": "+92 333 1234567",
+      "subject": "Inquiry regarding TIEST Engineering Admissions",
+      "message": "Could you please confirm the upcoming admissions schedule and merit criteria for student quotas from District Tharparkar?",
+      "category": "Education",
+      "status": "reviewed",
+      "createdAt": "2026-10-12T06:06:04.069Z"
+    },
+    {
+      "id": "inq-sample-2",
+      "name": "Fatima Zahra",
+      "email": "fatima.travels@gmail.com",
+      "phone": "+92 300 9876543",
+      "subject": "Family Winter Tour to Nagarparkar & Gori Temple",
+      "message": "We are planning a 3-day family trip from Karachi in December. Can you provide contact information for certified heritage guides and STDC booking?",
+      "category": "Tourism",
+      "status": "new",
+      "createdAt": "2026-10-13T06:06:04.069Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-init-1",
+      "action": "DATABASE_INITIALIZATION",
+      "performedBy": "System",
+      "details": "Initial verified database seeded with 25+ real Tharparkar institutions, healthcare centers, and destinations.",
+      "timestamp": "2026-10-14T06:06:04.069Z"
+    }
+  ]
+}

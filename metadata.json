@@ -1,0 +1,6 @@
+{
+  "name": "Tharparkar Digital Portal — Tourism, Education & Public Information",
+  "description": "Comprehensive digital portal for Tharparkar, Sindh, Pakistan. Explore tourism destinations, educational institutions, healthcare facilities, hotels, interactive district map, and public services.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
